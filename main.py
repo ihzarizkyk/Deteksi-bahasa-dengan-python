@@ -7,7 +7,7 @@ from googletrans import Translator
 # Detect Languages (Deteksi Bahasa)
 
 # buat variabel bahasa untuk inputan kata atau kalimat
-bahasa = input("Masukkan Kalimat : ")
+bahasa = input("Masukkan Kalimat atau Kata : ")
 
 # selanjutnya, buat variabel translator untuk memanggil fungsi translator
 translator = Translator()
